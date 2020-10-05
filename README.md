@@ -13,3 +13,5 @@ goals:
 2. Persist items through Restful API.
 
 ## Screenshot
+
+![screenshot](https://github.com/kayqiancao/Demo/blob/main/Demo/screenshot.png?raw=true)
