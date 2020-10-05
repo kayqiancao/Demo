@@ -1,6 +1,6 @@
 # Demo
 
-A project to demonstrate ASP.net core MVC, React.js, and xUnit Test Framework. The project achieves following design
+A project to demonstrate ASP.net core MVC, Entity Framework, SQL Server, React.js, and xUnit Test Framework. The project achieves following design
 goals:
 
 1. Layered architecture with DAO, Service, and Controller.
