@@ -3,7 +3,7 @@
 A project to demonstrate ASP.net core MVC, React.js, and xUnit Test Framework. The project achieves following design
 goals:
 
-1. Layered architecture with DAO, Sercie, and Controller.
+1. Layered architecture with DAO, Service, and Controller.
 2. SAP with React.js and Redux.
 3. Unit test coverage.
 
