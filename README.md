@@ -4,7 +4,7 @@ A project to demonstrate ASP.net core MVC, Entity Framework, SQL Server, React.j
 goals:
 
 1. Layered architecture with DAO, Service, and Controller.
-2. SAP with React.js and Redux.
+2. SPA with React.js and Redux.
 3. Unit test coverage.
 
 ## Functionality
